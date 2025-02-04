@@ -1,4 +1,5 @@
 # I'm Jagadeesh Kovi (I'JK)
+![jaga.jpg](https://github.com/jagakovi/jagakovi.github.io/blob/main/jaga.jpg?raw=true)
 
 ## About Me
 **Research Assistant/Analyst @ Indiana University**  
